@@ -1,0 +1,28 @@
+h1 {
+    font-weight: 800;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+input {
+    width: 100%;
+}
+
+.item-container {
+    text-align: left;
+    padding-left: 55px;
+    padding-top: 30px;
+}
+
+.todo-container {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+}
+
+.row {
+    margin: 15px 10px;
+
+
+}
